@@ -558,6 +558,7 @@ header>div>ul>a>li:hover{
 .GIT-container{
     display: flex;
     justify-content: space-between;
+    gap:30px;
     
 }
 .contact-form{
