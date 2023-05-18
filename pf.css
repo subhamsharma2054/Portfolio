@@ -1043,6 +1043,7 @@ footer>span{
         height: 170px;
     }
     .card.content>.details>.heading{
-        font-size: 13px
+        font-size: 12px;
     }
+
 }
