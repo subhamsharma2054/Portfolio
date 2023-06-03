@@ -126,7 +126,6 @@ header > div > ul > a:hover:after {
     position: fixed;
     right: 20px;
     bottom: 1000px;
-    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,7 +137,7 @@ header > div > ul > a:hover:after {
 }
 .scroll-to-top.active{
   visibility: visible;
-  bottom: 50px;
+  bottom: 140px;
 }
 .scroll-to-top>.bolb{
     position: relative;
