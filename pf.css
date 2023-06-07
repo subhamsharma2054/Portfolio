@@ -137,7 +137,7 @@ header > div > ul > a:hover:after {
 }
 .scroll-to-top.active{
   visibility: visible;
-  bottom: 80px;
+  bottom: 50px;
 }
 .scroll-to-top>.bolb{
     position: relative;
@@ -890,7 +890,7 @@ footer > span {
     display: none;
   }
   .scroll-to-top {
-    display: block;
+    display:flex;
   }
 
   .profile-image-wrapper {
