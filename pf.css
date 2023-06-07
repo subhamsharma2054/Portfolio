@@ -125,7 +125,7 @@ header > div > ul > a:hover:after {
 .scroll-to-top {
     position: fixed;
     right: 20px;
-    bottom: 1000px;
+    bottom: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
