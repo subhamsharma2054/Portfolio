@@ -137,7 +137,7 @@ header > div > ul > a:hover:after {
 }
 .scroll-to-top.active{
   visibility: visible;
-  bottom: 40px;
+  bottom: 20px;
 }
 .scroll-to-top>.bolb{
     position: relative;
