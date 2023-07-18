@@ -58,6 +58,11 @@ header > div > ul > a::after {
 header > div > ul > a:hover:after {
   transform: scale(1, 1);
 }
+.menu-line{
+  color: white;
+  display: none;
+}
+
 .side-nav {
   position: fixed;
   top: 50%;
@@ -72,7 +77,7 @@ header > div > ul > a:hover:after {
   height: 400px;
   clip-path: polygon(0% 0%, 100% 20%, 100% 80%, 0% 100%);
   transition: all 1s ease;
-  /* display: none; */
+  display: none;
 }
 .side-nav-inside {
   position: absolute;
@@ -883,6 +888,8 @@ footer > span {
   header > div > ul {
     display: none;
   }
+  
+
   .side-nav {
     visibility: hidden;
   }
